@@ -1,0 +1,21 @@
+audio_datasets/
+.idea
+output.wav
+.env
+ignore.txt
+Data/*.pth
+output1.wav
+__pycache__
+Data_Processing/Weights
+*.t7
+*.pth
+Dialect_Data/
+download_data_dialect.ipynb
+Generate Dialect Dataset.ipynb
+Inference.ipynb
+separated/
+metadata.parquet
+Data/
+Checkpoints/
+create_dataset.ipynb
+train_first_explana.ipynb
